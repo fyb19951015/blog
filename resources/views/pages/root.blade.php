@@ -1,6 +1,6 @@
 @extends('layouts.app')
-@section('title', '首页')
+@section('title', '哲♂学♀')
 
 @section('content')
-    <h1>这里是首页123123</h1>
+    <h1>这里是首页</h1>
 @stop
