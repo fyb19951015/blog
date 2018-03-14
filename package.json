@@ -17,5 +17,10 @@
         "laravel-mix": "^1.0",
         "lodash": "^4.17.4",
         "vue": "^2.5.7"
-    }
+    },
+    "name": "blogs",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:fyb19951015/blogs.git",
+    "license": "MIT"
 }
